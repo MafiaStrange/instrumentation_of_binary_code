@@ -1,0 +1,5 @@
+/work/awulff-pico-playground/adc_fft/build/_deps/picotool/picotool
+/work/awulff-pico-playground/adc_fft/build/_deps/picotool/picotoolTargets.cmake
+/work/awulff-pico-playground/adc_fft/build/_deps/picotool/picotoolTargets-release.cmake
+/work/awulff-pico-playground/adc_fft/build/_deps/picotool/picotoolConfig.cmake
+/work/awulff-pico-playground/adc_fft/build/_deps/picotool/picotoolConfigVersion.cmake

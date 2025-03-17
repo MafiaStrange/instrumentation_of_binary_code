@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/work/awulff-pico-playground/adc_fft/build/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "/work/awulff-pico-playground/adc_fft/build/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "/work/awulff-pico-playground/adc_fft/build/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "/work/awulff-pico-playground/adc_fft/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "/work/awulff-pico-playground/adc_fft/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "/work/awulff-pico-playground/adc_fft/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "/work/awulff-pico-playground/adc_fft/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "/work/awulff-pico-playground/adc_fft/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "/work/awulff-pico-playground/adc_fft/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "/work/awulff-pico-playground/adc_fft/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "/work/awulff-pico-playground/adc_fft/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}
