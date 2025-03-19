@@ -249,7 +249,7 @@ def get_loops(control_flow_statements):
 def hookit(opts):
     control_flow_statements = []
 
-    md = Cs(CS_ARCH_AARCH64, CS_MODE_LITTLE_ENDIAN)
+    md = Cs(CS_ARCH_ARM64, CS_MODE_LITTLE_ENDIAN)
     md.detail = True
 
     with open(opts.binfile, "r+b") as f:
